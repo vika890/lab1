@@ -18,8 +18,8 @@
 
 ## Установка
 ```bash
-git clone https://github.com/vika890/ML_Project.git
-cd ML_Project
+git clone https://github.com/vika890/lab1.git
+cd lab1
 pip install -r requirements.txt
 ```
 ## Для запуска приложения
